@@ -1,0 +1,11 @@
+{
+  "name": "com.pollipond.pixelbordertool",
+  "version": "1.0.0",
+  "displayName": "Pixel Border Tool",
+  "description": "為點陣圖加上邊緣線",
+  "unity": "6000.0",
+  "author": {
+    "name": "Mike",
+    "email": "yuchun1108@gmail.com"
+  }
+}
