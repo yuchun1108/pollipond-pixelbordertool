@@ -1,8 +1,8 @@
 {
   "name": "com.pollipond.pixelbordertool",
-  "version": "1.0.0",
-  "displayName": "PolliPond Pixel Border Tool",
-  "description": "¬°ÂI°}¹Ï¥[¤WÃä½t½u",
+  "version": "0.1.0",
+  "displayName": "Pixel Border Tool",
+  "description": "ç‚ºé»žé™£åœ–åŠ ä¸Šé‚Šç·£ç·š",
   "unity": "6000.0",
   "author": {
     "name": "PolliPond",
